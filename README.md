@@ -24,17 +24,17 @@ Here is an example of my starting code to being scraping & creating dictionaries
   <img src="https://github.com/KEGANCP/Mission-to-Mars/blob/main/Resources/Scraping_dict.png" alt="Scrape_dict"/>
 </p>
 
-With the below code I was able to extract full resolution images of Mars hemispheres as requested by Robin:
+Utilizing the below code I was able to extract full resolution images of Mars hemispheres as requested by Robin:
 <p align="center">
   <img src="https://github.com/KEGANCP/Mission-to-Mars/blob/main/Resources/Mars_Hemi_Image_Scrape.png" alt="Mars Hemi Scrape"/>
 </p>
 
-With this code we were able to extract images to our web app as shown below:
+Below is an example of code we used able to extract images to our web app:
 <p align="center">
   <img src="https://github.com/KEGANCP/Mission-to-Mars/blob/main/Resources/Mars_Hemi.png" alt="Mars Hemi Images"/>
 </p>
 
-With some retructure within our HTM we were able to fulfill Robins vision as shown below, as well as provide a clean view from a mobile source:
+With some retructure within our HTML we were able to fulfill Robins vision as shown below, as well as provide a clean view from a mobile source:
 <p align="center">
   <img src="https://github.com/KEGANCP/Mission-to-Mars/blob/main/Resources/Robins_Vision.png" alt="robins vision"/>
 </p>
@@ -42,3 +42,7 @@ With some retructure within our HTM we were able to fulfill Robins vision as sho
 <p align="center">
   <img src="https://github.com/KEGANCP/Mission-to-Mars/blob/main/Resources/Mobile_View.png" alt="Mobile View"/>
 </p>
+
+----
+### Summary
+I was able to attain Robins final vision with the help of the above tools mentioned. These functions help automate and simplify creating this web app immensely. Now, with just the push of a button, any recent news & updates will appear on your screen, whilst these tools do all the leg work in the blink of an eye. This is a great starting point for Robin, if there is more data she wanted to add to the page we could easily modify and add code to the existing code to include.
